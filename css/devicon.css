@@ -1,0 +1,47 @@
+.devicon {
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  margin: 4%;
+}
+
+.heroku {
+  background-image: url('../img/svg/heroku-plain-wordmark.svg');
+}
+.bootstrap {
+  background-image: url('../img/svg/bootstrap-plain-wordmark.svg');
+}
+.jquery {
+  background-image: url('../img/svg/jquery-plain-wordmark.svg');
+}
+.mongodb {
+  background-image: url('../img/svg/mongodb-original-wordmark.svg');
+}
+.node {
+  background-image: url('../img/svg/nodejs-original.svg');
+}
+.angular {
+  background-image: url('../img/svg/angularjs-original.svg');
+}
+.css {
+  background-image: url('../img/svg/css3-original.svg');
+}
+.git {
+  background-image: url('../img/svg/git-original.svg');
+}
+.html {
+  background-image: url('../img/svg/html5-original.svg');
+}
+.javascript {
+  background-image: url('../img/svg/javascript-original.svg');
+}
+.sass {
+  background-image: url('../img/svg/sass-original.svg');
+}
+.typescript {
+  background-image: url('../img/svg/typescript-original.svg');
+}
+
+.tech {
+  display: flex;
+}
