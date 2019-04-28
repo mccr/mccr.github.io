@@ -41,6 +41,24 @@
 .typescript {
   background-image: url('../img/svg/typescript-original.svg');
 }
+.java {
+  background-image: url('../img/svg/java.svg');
+}
+.confluence {
+  background-image: url('../img/svg/confluence.svg');
+}
+.postgresql {
+  background-image: url('../img/svg/postgresql.svg');
+}
+.amazon {
+  background-image: url('../img/svg/aws.svg');
+}
+.docker {
+  background-image: url('../img/svg/docker.svg');
+}
+.ruby {
+  background-image: url('../img/svg/ruby.svg');
+}
 
 .tech {
   display: flex;
